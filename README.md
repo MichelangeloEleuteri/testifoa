@@ -1,3 +1,3 @@
 # testifoa
 
-questa è la mia git addprima repository
+questa è la mia prima git add repository
